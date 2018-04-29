@@ -1,2 +1,3 @@
 # geomagnetic-magnetometer
-geomagnetic field fluctuations magnetometer station  (HMC5983 +arduino + bluetooth)
+Real-time view of the geomagnetic field fluctuations at the YOU HOME magnetometer station.
+Magnetometer provides one set of measurements of the Earth's geomagnetic field.
