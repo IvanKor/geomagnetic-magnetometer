@@ -2,7 +2,7 @@
 Real-time view of the geomagnetic field fluctuations at the YOU HOME magnetometer station.
 Magnetometer provides one set of measurements of the Earth's geomagnetic field.
 ![](./pictures/my_magnetometer.jpg)
-![](./pictures/magnetometer_my.png)
+![](./pictures/magnetometer_my3.png)
 ![](./pictures/screenshot1m.png)
 ![](./pictures/screenshot2m.png)
 ![](./pictures/screenshot3m.png)
