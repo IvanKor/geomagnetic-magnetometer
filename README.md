@@ -8,3 +8,6 @@ Magnetometer provides one set of measurements of the Earth's geomagnetic field.
 ![](./pictures/screenshot3m.png)
 ![](./pictures/screenshot5m.png)
 ![](./pictures/screenshot6m.png)
+![](./pictures/HMC5983 _Arduino.png)
+![](./pictures/ferrite_HMC5983.png)
+![](./pictures/GY_282_HMC5983.png)
