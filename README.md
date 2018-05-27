@@ -3,7 +3,7 @@ Real-time view of the geomagnetic field fluctuations at the YOU HOME magnetomete
 Magnetometer provides one set of measurements of the Earth's geomagnetic field.
 ![](./pictures/my_magnetometer.jpg)
 ![](./pictures/magnetometer_my3.png)
-![](./pictures/201805250721_HMC5983_MAG_1M_data_eventoverall.png)
+![](./pictures/201805260950_add_eventoverall.png)
 ![](./pictures/screenshot1m.png)
 ![](./pictures/screenshot2m.png)
 ![](./pictures/screenshot3m.png)
